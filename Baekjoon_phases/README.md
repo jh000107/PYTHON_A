@@ -4,13 +4,13 @@ These are python practice problems from the coding website called BAEKJOON ([Bae
 
 > Phases:
 >
-> 			1. Input, Output, and Arithmetic operations
-> 			1. IF statement
-> 			1. FOR, WHILE statements
-> 			1. Array, List
-> 			1. Functions
-> 			1. Character string
-> 			1. Fundamental Mathematics I
-> 			1. Fundamental Mathematics II
-> 			1. Recursive Function
-> 			1. Brute Force Algorithm
+> 	1. Input, Output, and Arithmetic operations
+> 	2. IF statement
+> 	3. FOR, WHILE statements
+> 	4. Array, List
+> 	5. Functions
+> 	6. Character string
+> 	7. Fundamental Mathematics I
+> 	8. Fundamental Mathematics II
+> 	9. Recursive Function
+> 	10. Brute Force Algorithm
