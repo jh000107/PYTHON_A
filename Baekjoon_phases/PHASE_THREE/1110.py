@@ -9,7 +9,6 @@
     it together with 8. You get 68.
 """
 
-
 n = int(input())
 # returns the sum of each digit of num
 def sum_digits(num):

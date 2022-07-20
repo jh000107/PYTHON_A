@@ -11,5 +11,7 @@ if a==b and b==c:
     print(10000+1000*a)
 elif (a==b and a!=c) or (a==c and a!=b):
     print(1000+100*a)
+elif (a!=b and b==c):
+    print(1000+b*100)
 else:
-    print(100*max(a,b,c))
+    print(100*max(a,b,c)) # use max function to get the biggest num out of 3.
