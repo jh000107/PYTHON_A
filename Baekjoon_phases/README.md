@@ -9,7 +9,7 @@ These are python practice problems from the coding website called BAEKJOON ([Bae
 > 	3. FOR, WHILE statements
 > 	4. Array, List
 > 	5. Functions
-> 	6. Character string
+> 	6. String
 > 	7. Fundamental Mathematics I
 > 	8. Fundamental Mathematics II
 > 	9. Recursive Function
