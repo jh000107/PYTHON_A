@@ -4,6 +4,7 @@
 """
 
 N = int(input())
+"""
 # helper function
 
 def prime_num(num):
@@ -23,4 +24,9 @@ while(N >= 1):
             N = int(N/i)
             print(i)
             break
-    
+"""
+for i in range(2,N+1):
+    if N%i==0:
+        while N%i==0:
+            print(i)
+            N = N / i
